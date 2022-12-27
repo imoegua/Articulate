@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.45.23393.0%0D%0A%0D%0A00:00:00.160%20--%3E%2000:00:03.522%0D%0AFirst,%20let%E2%80%99s%20look%20up%20Jane%E2%80%99s%20medical%20insurance%20deduction.%0D%0A%0D%0A"}')
